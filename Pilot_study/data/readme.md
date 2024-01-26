@@ -4,23 +4,23 @@ The data folder consists of raw and processed datasets used in our study which c
 
 ## Overview
 
-1. ARR.csv: Includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study.
+- `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study.
 
-2. QMHisolate.csv: Contains weekly records of different types of influenza infections, as well as the total number of non-influenza respiratory virus infections.
+- `QMHisolate.csv` contains weekly records of different types of influenza infections, as well as the total number of non-influenza respiratory virus infections.
 
-3. demographic.csv: Includes demographic and other background information for participants.
+- `demographic.csv` includes demographic and other background information for participants.
 
-4. housechar_h.csv: Illustrates the household characteristics of the participants.
+- `housechar_h.csv` illustrates the household characteristics of the participants.
 
-5. randomcode_h.csv: Includes the assignment of interventions to households.
+- `randomcode_h.csv` includes the assignment of interventions to households.
 
-6. resplex.csv: Contains information related to laboratory test results for individual participants.
+- `resplex.csv` contains information related to laboratory test results for individual participants.
 
-7. serology.csv: Contains information related to the serological test results of participants.
+- `serology.csv` contains information related to the serological test results of participants.
 
-8. swab.csv: Contains information related to the nasal or throat swab test results of participants.
+- `swab.csv` contains information related to the nasal or throat swab test results of participants.
 
-9. symptom_d.csv: Includes information related to the daily self-reported symptoms of participants.
+- `symptom_d.csv` includes information related to the daily self-reported symptoms of participants.
 
 ## Usage
 
