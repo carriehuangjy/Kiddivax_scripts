@@ -22,7 +22,7 @@ In the code folder we provide the R files as follows:
   
 - `source_2.r` reads data files, performs data cleaning and processing, and fits several Generalized Estimating Equation (GEE) models to the data. The models estimate the association between antibody titers and protection against influenza virus infection, and the effect of vaccination on antibody titers and protection. In additions, the script also calculates sample sizes for each group in the study.
   
-- `source_3.r` generates a statistical model that evaluates the correlation between HAI titer and subsequent protection against confirmed influenza virus infection in children. The code reads in data and uses Cox model to take into account the background risk of infection, waning HAI antibodies, and beta*titer(t0). The code also creates a smoothed proxy for background risk and merges PCR type and date. Finally, the code creates a dataframe for the best waning parameter value and uses Coxph to find the correlation between post-vaccination and proxy.
+- `source_3.r` generates a statistical model that evaluates the correlation between HAI titer and subsequent protection against confirmed influenza virus infection in children. It reads in data and uses Cox model to take into account the background risk of infection, waning HAI antibodies, and beta*titer(t0). It also creates a smoothed proxy for background risk and merges PCR type and date. Finally, the code creates a dataframe for the best waning parameter value and uses Coxph to find the correlation between post-vaccination and proxy.
   
 - `source_4.r` predicts the post-vaccination titers of influenza B virus for each participant in a study.
   
