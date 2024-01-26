@@ -75,5 +75,4 @@ Please note that you may need to adjust file paths or make other modifications t
 
 ## Citation
 
-If you use any part of this study or its associated data and code, please cite the original publication: Benjamin J. Cowling, Sophia Ng, Edward S. K. Ma, Calvin K. Y. Cheng, Winnie Wai, Vicky J. Fang, Kwok-Hung Chan, Dennis K. M. Ip, Susan S. Chiu, J. S. Malik Peiris, Gabriel M. Leung, Protective Efficacy of Seasonal Influenza Vaccination against Seasonal and Pandemic Influenza Virus Infection during 2009 in Hong Kong, Clinical Infectious Diseases, Volume 51, Issue 12, 15 December 2010, Pages 1370–1379, https://doi.org/10.1086/657311
-
+If you use any part of this study or its associated data and code, please cite the original publication: Benjamin J. Cowling, Sophia Ng, Edward S. K. Ma, Calvin K. Y. Cheng, Winnie Wai, Vicky J. Fang, Kwok-Hung Chan, Dennis K. M. Ip, Susan S. Chiu, J. S. Malik Peiris, Gabriel M. Leung, Protective Efficacy of Seasonal Influenza Vaccination against Seasonal and Pandemic Influenza Virus Infection during 2009 in Hong Kong, Clinical Infectious Diseases, Volume 51, Issue 12, 15 December 2010, Pages 1370–1379, https://doi.org/10.1086/657311.
