@@ -12,7 +12,7 @@ In this study, we aim to process and reformat raw data related to a study examin
 
 ## Data
 
-The data folder consists of raw and processed datasets used in our study. This includes:
+The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
 
 - `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study. 
 
