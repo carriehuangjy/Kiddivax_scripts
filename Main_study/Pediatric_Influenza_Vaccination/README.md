@@ -10,28 +10,6 @@ Publisher full text link: https://journals.plos.org/plosone/article?id=10.1371/j
 
 We aim to process and reformat raw data related to a study examining the effect of age and recent influenza vaccination history on the immunogenicity and efficacy of the 2009-10 seasonal trivalent inactivated influenza vaccination in children. 
 
-## Data
-
-The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
-
-- `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study. 
-
-- `chronic_condition.csv` contains information about the presence of chronic conditions among the participants.
-
-- `demographic.csv` contains demographic and other background information for participants in a study, possibly related to a clinical trial, health survey, or vaccination program. 
-
-- `housechar.csv` illustrates the household characteristics of the participants.
-
-- `qmdata_w_pH1.csv` contains information related to the presence of Influenza A (H1N1) and other influenza types among the participants.
-
-- `randomcode.csv` includes the assignment of interventions to households.
-
-- `serology.csv` contains information related to the serological test results of participants in the study.
-
-- `swab.csv` contains information related to the nasal or throat swab test results of participants.
-
-- `symptom_d.csv` includes information related to the daily self-reported symptoms of participants.
-
 ## Scripts
 
 - `dataframe.r` reformats the raw data for the study.
