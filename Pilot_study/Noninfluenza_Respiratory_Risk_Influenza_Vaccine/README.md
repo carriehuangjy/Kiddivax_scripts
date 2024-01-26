@@ -8,7 +8,7 @@ Publisher full text link: https://academic.oup.com/cid/article/54/12/1778/455098
 
 ## Overview
 
-The KiddivaxPilot_CID_respiratory_scripts repository contains the scripts used for analyzing and processing data specifically related to the respiratory outcomes in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts perform various tasks such as data cleaning, statistical analysis, and generating tables and figures specifically focused on respiratory data.
+In this study, we aim to investigate whether the inactivated influenza vaccine (IIV) is associated with an increased risk of non-influenza respiratory viral infections (NIRV) in children. We analyzed data from a randomized controlled trial that involved 115 children aged 6-15 months who received either IIV or a control vaccine. The results showed that children who received IIV had a significantly higher risk of developing NIRV compared to those who received the control vaccine. 
 
 ## Scripts
 
