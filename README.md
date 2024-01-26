@@ -1,4 +1,4 @@
-# Kiddivax Scripts
+# Kiddivax Study
 
 This repository contains scripts related to the titer protection analysis for the KiddivaxMain pediatric vaccine trial.
 
