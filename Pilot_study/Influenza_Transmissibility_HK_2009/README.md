@@ -18,14 +18,6 @@ The KiddivaxPilot_Transmission_scripts repository contains the scripts used for 
 
 - `Figure_1.r` shows the flow of participants through the study.
 
-- `Figure_S1.r` visualizes the proportion of positive isolates for different types of influenza viruses (Pandemic A(H1N1), Seasonal A, and Seasonal B) over time. 
-
-- `Figure_S2.r` creates a plot that displays antibody titers before and after vaccination for two different flu strains (A/H1N1 and A/H3N2) and one strain of influenza B, separated by intervention group (TIV or placebo). 
-
-- `Figure_S3.r` plots Daily Adverse Reaction    
-
-- `Figure_S4.r` plots a graph with antibody titers to pandemic A/H1N1 on the y-axis and different categories of infection on the x-axis. 
-
 - `Table_1.r` shows the baseline characteristics of children who received trivalent influenza vaccine (TIV) or placebo and their household contacts.
 
 - `Table_2.r` presents antibody titers against seasonal A/H1N1, seasonal A/H3N2, and pandemic A/H1N1 virus before and 1 month after receipt of trivalent inactivated vaccine (TIV) or placebo.
@@ -41,6 +33,14 @@ The KiddivaxPilot_Transmission_scripts repository contains the scripts used for 
 - `Table_7.r` shows the factors associated with the risk of laboratory-confirmed (by reverse-transcription polymerase chain reaction or serological testing) pandemic influenza, with analysis stratified by vaccines and household contact status.
  
 - `Table_8.r` illustrates the factors associated with the risk of laboratory-confirmed pandemic influenza, with prior seasonal influenza infection stratified into laboratory-confirmed influenza A/H1N1 and A/H3N2 infection.
+
+- `Figure_S1.r` visualizes the proportion of positive isolates for different types of influenza viruses (Pandemic A(H1N1), Seasonal A, and Seasonal B) over time. 
+
+- `Figure_S2.r` creates a plot that displays antibody titers before and after vaccination for two different flu strains (A/H1N1 and A/H3N2) and one strain of influenza B, separated by intervention group (TIV or placebo). 
+
+- `Figure_S3.r` plots Daily Adverse Reaction    
+
+- `Figure_S4.r` plots a graph with antibody titers to pandemic A/H1N1 on the y-axis and different categories of infection on the x-axis. 
 
 ## Usage
 
