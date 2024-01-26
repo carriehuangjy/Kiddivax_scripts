@@ -11,26 +11,6 @@ Epidemiology link: https://journals.lww.com/epidem/fulltext/2011/11000/transmiss
 
 The KiddivaxPilot_scripts repository contains the scripts used for data analysis and processing in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts perform tasks such as generating figures, tables, and dataframes related to the study.
 
-## Data
-
-The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
-
-- `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study. 
-
-- `QMHisolate.csv` contains weekly records of different types of influenza infections, as well as the total number of non-influenza respiratory virus infections. 
-
-- `demographic.csv` contains demographic and other background information for participants in a study, possibly related to a clinical trial, health survey, or vaccination program.
-
-- `housechar_h.csv` illustrates the household characteristics of the participants.
-  
-- `randomcode_h.csv` includes the assignment of interventions to households.
-
-- `serology.csv` contains information related to the serological test results of participants in the study,
-
-- `swab.csv` contains information related to the nasal or throat swab test results of participants.
-
-- `symptom_d.csv` includes information related to the daily self-reported symptoms of participants.
-
 ## Scripts
 
 The repository has the following file structure:
