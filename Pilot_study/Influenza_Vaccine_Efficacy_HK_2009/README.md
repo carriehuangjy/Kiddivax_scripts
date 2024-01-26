@@ -23,7 +23,7 @@ The repository has the following file structure:
 
 - `Figure_1to3.r` presents the community probility of infection of children and adults.
   
-- `eTable_2.r` shows sample sizes and proportions infected in subgroup analyses excluding 
+- `eTable_2.r` shows sample sizes and proportions infected in subgroup analyses excluding individuals with higher baseline seasonal A antibody titers. 
   
 - `eTable_3.r` presents the estimates of the Community Probability of Infection and the Secondary Attack Proportion (SAP) for children and adults who did not receive seasonal vaccination.  
 
