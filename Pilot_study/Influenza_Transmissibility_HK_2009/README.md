@@ -39,7 +39,7 @@ In this study, we aim to determine the effectiveness of the seasonal influenza v
 
 - `Figure_S2.r` creates a plot that displays antibody titers before and after vaccination for two different flu strains (A/H1N1 and A/H3N2) and one strain of influenza B, separated by intervention group (TIV or placebo). 
 
-- `Figure_S3.r` plots Daily Adverse Reaction    
+- `Figure_S3.r` plots daily adverse reactions  and calculate the proportions of adverse reactions for each intervention and condition combination.
 
 - `Figure_S4.r` plots a graph with antibody titers to pandemic A/H1N1 on the y-axis and different categories of infection on the x-axis. 
 
