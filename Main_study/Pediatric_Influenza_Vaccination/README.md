@@ -8,7 +8,7 @@ Publisher full text link: https://journals.plos.org/plosone/article?id=10.1371/j
 
 ## Overview
 
-We aim to process and reformat raw data related to a study examining the effect of age and recent influenza vaccination history on the immunogenicity and efficacy of the 2009-10 seasonal trivalent inactivated influenza vaccination in children. 
+In this study, we aim to process and reformat raw data related to a study examining the effect of age and recent influenza vaccination history on the immunogenicity and efficacy of the 2009-10 seasonal trivalent inactivated influenza vaccination in children. 
 
 ## Scripts
 
