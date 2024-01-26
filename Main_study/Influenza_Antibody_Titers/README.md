@@ -10,30 +10,6 @@ Publisher full text link: https://academic.oup.com/jid/article/208/8/1320/219338
 
 In this study, we aimed to determine the relationship between hemagglutination inhibition antibody (HAI) titers and protection against influenza virus infection in children. We found that higher HAI titers were significantly associated with greater protection against confirmed influenza virus infection, estimating that an HAI titer of 1:110 provided a 50% reduction in risk and an HAI titer of 1:330 provided an 80% reduction in risk.
 
-## Data
-
-The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
-
-- `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study. 
-
-- `chronic_condition.csv` contains information about the presence of chronic conditions among the participants.
-
-- `demographic.csv` contains demographic and other background information for participants in a study, possibly related to a clinical trial, health survey, or vaccination program. 
-
-- `housechar.csv` illustrates the household characteristics of the participants.
-
-- `qmdata_w_pH1.csv` contains information related to the presence of Influenza A(H1N1)pdm09 and other influenza types among the participants.
-
-- `randomcode.csv` includes the assignment of interventions to households.
-
-- `serology.csv` contains information related to the serological test results of participants in the study,
-
-- `swab.csv` contains information related to the nasal or throat swab test results of participants.
-
-- `symptom_d.csv` includes information related to the daily self-reported symptoms of participants.
-
-- `influenza_proxy_1998to2013.csv` shows the  proxy measures for the circulation of different types of influenza viruses in a population between 1998 and 2013. 
-
 ## Scripts
 
 In the code folder we provide the R files as follows:
