@@ -1,6 +1,6 @@
-# Data Folder
+# Main Study Data 
 
-This folder contains various datasets used in main study. These datasets are related to a clinical trial, health survey, or vaccination program. Each dataset provides valuable information about the participants, their symptoms, test results, and other relevant factors.
+The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member")
 
 ## Overview
 
