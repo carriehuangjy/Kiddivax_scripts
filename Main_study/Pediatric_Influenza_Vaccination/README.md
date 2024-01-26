@@ -16,11 +16,11 @@ We aim to process and reformat raw data related to a study examining the effect 
 
 - `Figure_1.r` shows individual antibody titers before and one month after receipt of trivalent inactivated influenza vaccine (TIV) in 2009–2010 among 6–8 y (Y, represented by blue circles) and 9–17 y children (O, represented by grey circles) with regard to their vaccination history for the 2007–2008 and 2008–2009 seasons.
 
-- `Figure_S2.r` shows the individual antibody titers before and one month after receipt of placebo in 2009–2010 among 6–8 y (Y, represented by blue circles) and 9–17 y children (O, represented by grey circles) with regard to their vaccination history for the 2007–2008 and 2008–2009 seasons.
-
 - `Table_2.r` indicates characteristics of 479 subjects randomized to receive trivalent inactivated influenza vaccine (TIV) in 2009–10 with regard to their vaccination history in 2007–08 and 2008–09.
 
 - `Table_3.r` presents factors affecting risk of RT-PCR confirmed influenza B infection and vaccine efficacy (VE) of trivalent inactivated influenza vaccine (TIV) in 2009–10.
+
+- `Figure_S2.r` shows the individual antibody titers before and one month after receipt of placebo in 2009–2010 among 6–8 y (Y, represented by blue circles) and 9–17 y children (O, represented by grey circles) with regard to their vaccination history for the 2007–2008 and 2008–2009 seasons.
 
 - `Table_S1.r` shows comparison of antibody titers before and 1 month after receipt of 2009–10 trivalent inactivated influenza vaccine (TIV) in children 6–8 years of age with regard to their vaccination history.
 
