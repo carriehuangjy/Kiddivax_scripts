@@ -15,9 +15,9 @@ The KiddivaxPilot_scripts repository contains the scripts used for data analysis
 
 The repository has the following file structure:
 
-- `Figure_1to3.r` reproduces information for Figure 1-3.
-  
 - `MCMC_function.r` produces the MCMC function used in the study.
+  
+- `Figure_1to3.r` reproduces information for Figure 1-3.
   
 - `Table_1.r` shows the risk of influenza virus infection by individual characteristics in 425 adults and children.
   
