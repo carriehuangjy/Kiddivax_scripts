@@ -8,7 +8,8 @@ Publisher full text link: https://academic.oup.com/cid/article/51/12/1370/316441
 
 ## Overview
 
-The KiddivaxPilot_Transmission_scripts repository contains the scripts used for analyzing and processing data specifically related to the transmission dynamics in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts perform various tasks such as modeling transmission, running simulations, and generating tables and figures related to the transmission analysis.
+In this study, we aim to determine the effectiveness of the seasonal influenza vaccine in preventing seasonal and pandemic influenza virus infections during the 2009 influenza pandemic in Hong Kong. The results showed that the seasonal influenza vaccine was moderately effective in preventing seasonal influenza virus infection, but had low efficacy against pandemic influenza virus infection. We also found that the vaccine was more effective in younger age groups and those without underlying health conditions.
+
 
 ## Scripts
 
