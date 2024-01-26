@@ -1,6 +1,6 @@
 # Main Study Data 
 
-The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member")
+The data folder consists of raw and processed datasets used in main study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member")
 
 ## Overview
 
