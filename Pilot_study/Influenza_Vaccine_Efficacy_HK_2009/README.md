@@ -9,7 +9,7 @@ Epidemiology link: https://journals.lww.com/epidem/fulltext/2011/11000/transmiss
 
 ## Overview
 
-The KiddivaxPilot_scripts repository contains the scripts used for data analysis and processing in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts perform tasks such as generating figures, tables, and dataframes related to the study.
+In this study, we aime to investigate the transmission dynamics of seasonal and pandemic influenza in households in Hong Kong during the 2009 influenza pandemic. We analyzed the final outbreak size distributions of pandemic A(H1N1), seasonal A(H1N1), and A(H3N2) infections identified in paired sera collected from members of 117 Hong Kong households in April and in August-October 2009. The result showed that pandemic and seasonal influenza A viruses had similar age-specific transmissibility in a cohort of initially uninfected households, after adjustment for baseline immunity.
 
 ## Scripts
 
@@ -17,19 +17,20 @@ The repository has the following file structure:
 
 - `MCMC_function.r` produces the MCMC function used in the study.
   
-- `Figure_1to3.r` reproduces information for Figure 1-3.
-  
 - `Table_1.r` shows the risk of influenza virus infection by individual characteristics in 425 adults and children.
   
-- `Table_2.r` shows the subtype-specific estimates of community probabilities of infection and SAPs for children and adults.
+- `Table_2.r` indicates the subtype-specific estimates of community probabilities of infection and SAPs for children and adults.
+
+- `Figure_1to3.r` presents the community probility of infection of children and adults.
   
-- `eTable_2.r` reproduces information for eTable 2.
+- `eTable_2.r` shows sample sizes and proportions infected in subgroup analyses excluding 
   
-- `eTable_3.r` reproduces information for eTable 3.
+- `eTable_3.r` presents the estimates of the Community Probability of Infection and the Secondary Attack Proportion (SAP) for children and adults who did not receive seasonal vaccination.  
+
+- `eTable_4.r` shows the estimates of the Community Probability of Infection and the Secondary Attack Proportion (SAP) for children and adults for pH1N1 excluding all individuals who had been infected with either seasonal A(H1N1) or A(H3N2).
   
-- `eTable_4.r` reproduces information for eTable 4.
-  
-- `eTable_5.r` reproduces information for eTable 5.
+- `eTable_5.r` shows the estimates of the Community Probability of Infection and the Secondary Attack Proportion (SAP) for children and adults allowing
+individuals to be infected with more than one strain.
 
 ## Usage
 
