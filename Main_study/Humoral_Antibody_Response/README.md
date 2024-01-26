@@ -4,7 +4,7 @@ This repository contains an R script for processing and reformatting raw data re
 
 PubMed link: https://pubmed.ncbi.nlm.nih.gov/22683675/  
 PubMed Central full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422369/  
-Publisher full text link:https://journals.lww.com/pidj/fulltext/2012/09000/humoral_antibody_response_after_receipt_of.24.aspx
+Publisher full text link: https://journals.lww.com/pidj/fulltext/2012/09000/humoral_antibody_response_after_receipt_of.24.aspx
 
 ## Overview
 
