@@ -24,8 +24,6 @@ The data folder consists of raw and processed datasets used in our study which c
    
 10. influenza_proxy_1998to2013.csv shows the proxy measures for the circulation of different types of influenza viruses in a population between 1998 and 2013.
 
-Please note that these datasets are in CSV format and can be linked using the unique household ID ("hhID") and the unique participant ID within the household ("member").
-
 ## Usage
 
 These datasets can be used for various purposes, such as data analysis, research, or further investigation. Researchers and analysts can explore the data to gain insights into the study participants, their symptoms, test results, and other related factors. Please refer to the individual dataset files for specific details and column descriptions.
