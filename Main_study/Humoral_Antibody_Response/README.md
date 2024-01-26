@@ -10,37 +10,6 @@ Publisher full text link: https://journals.lww.com/pidj/fulltext/2012/09000/humo
 
 In a randomized controlled trial, we administered seasonal trivalent inactivated influenza vaccine (TIV) or placebo to subjects 6–15 years of age in two consecutive years. Receipt of TIV in year 2 induced seroprotection in most subjects. Among 39 children who received TIV in the second year, receipt of TIV in the first year was associated with lower antibody titer rises in the second year to seasonal influenza A(H1N1) and A(H3N2) strains for which the vaccine strains remained unchanged. Antibody response to a different influenza B strain in the second year was unaffected by receipt of TIV in the first year.
 
-## Data
-
-The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
-
-- `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study. 
-
-- `chronic_condition.csv` contains information about the presence of chronic conditions among the participants.
-
-- `demographic.csv` contains demographic and other background information for participants in a study, possibly related to a clinical trial, health survey, or vaccination program. 
-
-- `housechar.csv` illustrates the household characteristics of the participants.
-
-- `qmdata_w_pH1.csv` contains information related to the presence of Influenza A (H1N1) and other influenza types among the participants.
-
-- `randomcode.csv` includes the assignment of interventions to households.
-
-- `serology.csv` contains information related to the serological test results of participants in the study.
-
-- `swab.csv` contains information related to the nasal or throat swab test results of participants.
-
-- `symptom_d.csv` includes information related to the daily self-reported symptoms of participants.
-
-- `QMHisolate.csv` contains information related to the weekly counts of laboratory-confirmed influenza virus isolates, which are virus samples collected from patients and identified through laboratory testing.
-
-- `demographic_m.csv` includes demographic information related to individual participants in a study, possibly related to a clinical trial, health survey, or vaccination program.
-
-- `housechar_h.csv` illustrates the household characteristics of the participants.
-
-- `resplex.csv` contains information related to laboratory test results for individual participants in a study, possibly related to a clinical trial, health survey, or vaccination program.
-
-- `serology_m.csv` shows serological test results for individual participants in a study, possibly related to a clinical trial, health survey, or vaccination program.
 
 ## Scripts
 
