@@ -7,14 +7,13 @@ PubMed link: https://pubmed.ncbi.nlm.nih.gov/21878814/
 PubMed Central full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206962/  
 Epidemiology link: https://journals.lww.com/epidem/fulltext/2011/11000/transmissibility_of_seasonal_and_pandemic.5.aspx
 
-
 ## Overview
 
 The KiddivaxPilot_scripts repository contains the scripts used for data analysis and processing in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts perform tasks such as generating figures, tables, and dataframes related to the study.
 
 ## Data
 
-The data folder consists of raw and processed datasets used in our study. This includes:
+The data folder consists of raw and processed datasets used in our study which can be linked by the unique household ID ("hhID") and the unique participant ID within the household ("member"):
 
 - `ARR.csv` includes information about the presence of various symptoms such as fever, chills, tiredness, headache, cough, muscle pain, swelling, redness, bruising, and injection site pain, collected at four different time points (d1 to d4) during the study. 
 
