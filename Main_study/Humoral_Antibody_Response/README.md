@@ -13,7 +13,7 @@ In a randomized controlled trial, we administered seasonal trivalent inactivated
 
 ## Scripts
 
-- `dataframe.r` is used to reformat and merge raw data from two separate studies, "KiddivaxPilotV2" and "KiddivaxMainV1", which are related to the humoral antibody response after receipt of inactivated seasonal influenza vaccinations one year apart in children.
+- `dataframe.r` is used to reformat and merge raw data of the study.
 
 - `Figure_1.r` shows the changes in seasonal influenza A H1N1 virus antibody titers in subjects treated with TIV.
 
