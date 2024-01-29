@@ -26,4 +26,4 @@ The data folder consists of raw and processed datasets used in main study which 
 
 ## Usage
 
-These datasets is used for the main study. Please refer to the individual dataset files for specific details and column descriptions.
+These datasets is used for the main studies. Please refer to the individual dataset files for specific details and column descriptions.
