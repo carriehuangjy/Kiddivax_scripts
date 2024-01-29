@@ -24,5 +24,5 @@ The data folder consists of raw and processed datasets used in pilot study which
 
 ## Usage
 
-These datasets is used for pilot studies and main studies. Please refer to the individual dataset files for specific details and column descriptions.
+These datasets is used for pilot studies. Please refer to the individual dataset files for specific details and column descriptions.
 
