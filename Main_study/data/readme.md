@@ -26,4 +26,4 @@ The data folder consists of raw and processed datasets used in main study which 
 
 ## Usage
 
-These datasets can be used for various purposes, such as data analysis, research, or further investigation. Researchers and analysts can explore the data to gain insights into the study participants, their symptoms, test results, and other related factors. Please refer to the individual dataset files for specific details and column descriptions.
+These datasets is used for the main study. Please refer to the individual dataset files for specific details and column descriptions.
