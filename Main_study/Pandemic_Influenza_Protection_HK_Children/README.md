@@ -1,4 +1,4 @@
-# Data and R syntax for the published paper "Protective Efficacy Against Pandemic Influenza of Seasonal Influenza Vaccination in Children in Hong Kong: A Randomized Controlled Trial"
+# R syntax for the published paper "Protective efficacy against pandemic influenza of seasonal influenza vaccination in children in Hong Kong: a randomized controlled trial"
 
 This repository contains an R script for processing and reformatting raw data related to the protective efficacy against pandemic influenza of seasonal influenza vaccination in children in Hong Kong. The study is based on the paper by Cowling BJ, et al. (CID, 2012).
 
