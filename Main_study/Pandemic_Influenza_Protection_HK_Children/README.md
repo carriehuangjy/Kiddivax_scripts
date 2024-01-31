@@ -8,7 +8,7 @@ Publisher full text link: https://academic.oup.com/cid/article/55/5/695/352104
 
 ## Overview
 
-In this study, we aim to process and reformat raw data related to a study examining the protective efficacy against pandemic influenza of seasonal influenza vaccination in children in Hong Kong. 
+In this study, we aimed to process and reorganize primary data related to a study that examined the protective effect of seasonal influenza vaccination against pandemic influenza among children in Hong Kong. Between August 2009 and February 2010, one child aged 6-17 years from each of 796 families was randomly assigned to receive either the 2009-2010 seasonal trivalent inactivated influenza vaccine (TIV) or a saline placebo. The vaccinated families were followed up with serology, symptom diaries, and respiratory specimen collection during illness. The primary outcome was confirmation of influenza infection by reverse transcription polymerase chain reaction (RT-PCR) or a ≥4-fold rise in serum antibody titer as measured by hemagglutination inhibition test.
 
 ## Scripts
 
