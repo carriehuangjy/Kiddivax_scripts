@@ -1,6 +1,6 @@
 # R syntax for the published paper "Humoral antibody response after receipt of inactivated seasonal influenza vaccinations one year apart in children"
 
-This repository contains an R script for processing and reformatting raw data related to the humoral antibody response after receipt of inactivated seasonal influenza vaccinations one year apart in children. The study is based on the paper by Ng S, et al. (PIDJ, 2012).
+This repository contains an R script for processing related to the humoral antibody response after receipt of inactivated seasonal influenza vaccinations one year apart in children. The study is based on the paper by Ng S, et al. (PIDJ, 2012).
 
 PubMed link: https://pubmed.ncbi.nlm.nih.gov/22683675/  
 PubMed Central full text link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3422369/  
