@@ -1,4 +1,4 @@
-# R syntax for the published paper "Estimation of the Association Between Antibody Titers and Protection Against Confirmed Influenza Virus Infection in Children"
+# R syntax for the published paper "Estimation of the association between antibody titers and protection against confirmed influenza virus infection in children"
 
 This repository contains the source code for the research paper titled "Estimation of the association between antibody titers and protection against confirmed influenza virus infection in children" by Ng et al published in the Journal of Infectious Diseases in 2013. 
 
