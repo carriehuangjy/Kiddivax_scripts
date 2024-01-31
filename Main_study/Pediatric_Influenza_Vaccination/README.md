@@ -1,4 +1,4 @@
-# Data and R syntax for the published paper "The effect of age and recent influenza vaccination history on the immunogenicity and efficacy of 2009-10 seasonal trivalent inactivated influenza vaccination in children"
+# R syntax for the published paper "The effect of age and recent influenza vaccination history on the immunogenicity and efficacy of 2009-10 seasonal trivalent inactivated influenza vaccination in children"
 
 This repository contains an R script for processing and reformatting raw data related to the effect of age and recent influenza vaccination history on the immunogenicity and efficacy of 2009-10 seasonal trivalent inactivated influenza vaccination in children. The study is based on the paper by Ng S, et al. (PLoS ONE 2013).
 
