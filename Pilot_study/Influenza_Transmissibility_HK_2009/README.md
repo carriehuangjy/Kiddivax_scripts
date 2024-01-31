@@ -1,4 +1,4 @@
-# Data and R syntax for the published paper "Protective Efficacy of Seasonal Influenza Vaccination against Seasonal and Pandemic Influenza Virus Infection during 2009 in Hong Kong"
+# R syntax for the published paper "Protective efficacy of seasonal influenza vaccination against seasonal and pandemic influenza virus infection during 2009 in Hong Kong"
 
 This repository contains the scripts related to the transmission analysis in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts are specifically designed for analyzing and processing data related to the transmission dynamics of the disease in the context of the Kiddivax Pilot study. 
 
