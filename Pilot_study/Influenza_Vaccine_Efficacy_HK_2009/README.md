@@ -1,4 +1,4 @@
-# Data and R syntax for the published paper "Transmissibility of seasonal and pandemic influenza in a cohort of households in Hong Kong in 2009"
+# R syntax for the published paper "Transmissibility of seasonal and pandemic influenza in a cohort of households in Hong Kong in 2009"
 
 This repository contains the scripts used in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts are designed for various tasks related to the study, including data analysis, visualization, and processing. 
 
