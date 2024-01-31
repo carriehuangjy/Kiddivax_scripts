@@ -1,4 +1,4 @@
-# Data and R syntax for the published paper "Increased Risk of Noninfluenza Respiratory Virus Infections Associated With Receipt of Inactivated Influenza Vaccine"
+# R syntax for the published paper "Increased risk of noninfluenza respiratory virus infections associated with receipt of inactivated influenza vaccine"
 
 This repository contains the scripts related to the respiratory analysis in the Kiddivax Pilot study of the pediatric vaccine trial research project. These scripts are specific to the analysis and processing of data related to respiratory outcomes in the context of the CID (Community-Associated Infections and Disease) module of the study.
 
